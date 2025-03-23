@@ -1,0 +1,5 @@
+15 Lacteos Leche 5000
+12 Carnes Cerdo 7000
+3 Frutas Manzana 5000
+46 Frutas Pi¤a 3000
+67 Lacteos Queso 3500

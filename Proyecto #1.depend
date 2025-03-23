@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1631505220 source:c:\users\santi\desktop\universidad\1.semestre\introducción a la progrmación\proyectos\proyecto #1\main.cpp
+	<iostream>
+	<fstream>
+

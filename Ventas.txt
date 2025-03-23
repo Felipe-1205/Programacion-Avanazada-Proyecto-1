@@ -1,0 +1,3 @@
+Andres E 1 293500 1 1
+Andres E 2 275000 1 1
+Andres E 3 10000 1 1
